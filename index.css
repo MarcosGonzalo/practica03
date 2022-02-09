@@ -1,0 +1,9 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: purple;
+	text-shadow: 2px 1px 5px blue, 2px 1px 5px blue;
+	text-align: center;
+}
